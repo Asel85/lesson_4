@@ -1,0 +1,46 @@
+body {
+    font-family: Roboto,Arial,sens-serif;
+    font-size: 20px;
+    font-style: italic;
+
+}
+.conteiner {
+    text-align: center;
+}
+h1 {
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2 {
+    color: blue;
+    font-size: 40px;
+}
+h3 {
+    color: green;
+    text-align: left;
+    font-size: 30px;
+}
+ul a {
+    color: brown;
+}
+a {
+    text-decoration:underline;
+    color: red;
+}
+p.text{
+    color: blueviolet;
+    text-shadow: 10px 10px 10px #000;
+    line-height: 1.5;
+}
+p {
+    color: aqua;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+.text {
+    text-indent: 40px;
+}
+span {
+    color: red;
+}
